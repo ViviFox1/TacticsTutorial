@@ -88,7 +88,6 @@
     <Compile Include="Assets\Scripts\Extensions\DirectionsExtensions.cs" />
     <Compile Include="Assets\Scripts\Controller\Battle States\SelectUnitState.cs" />
     <Compile Include="Assets\Scripts\Common\Animation\TransformPositionTweener.cs" />
-    <Compile Include="Assets\Demo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
